@@ -1,0 +1,17 @@
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\bin\Debug\net8.0-windows\CalculatorSimplu.exe
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\bin\Debug\net8.0-windows\CalculatorSimplu.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\bin\Debug\net8.0-windows\CalculatorSimplu.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\bin\Debug\net8.0-windows\CalculatorSimplu.dll
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\bin\Debug\net8.0-windows\CalculatorSimplu.pdb
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.Form1.resources
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.csproj.GenerateResource.cache
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.dll
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\refint\CalculatorSimplu.dll
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.pdb
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\ref\CalculatorSimplu.dll
+C:\Users\suciu\Desktop\medii si instrumente\CalculatorSimplu\obj\Debug\net8.0-windows\CalculatorSimplu.CalculatorForm.resources
