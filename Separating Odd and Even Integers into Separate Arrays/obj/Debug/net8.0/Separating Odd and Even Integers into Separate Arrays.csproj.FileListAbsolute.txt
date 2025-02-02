@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\bin\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.exe
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\bin\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\bin\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\bin\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.dll
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\bin\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.dll
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\refint\Separating Odd and Even Integers into Separate Arrays.dll
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\Separating Odd and Even Integers into Separate Arrays.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Separating Odd and Even Integers into Separate Arrays\obj\Debug\net8.0\ref\Separating Odd and Even Integers into Separate Arrays.dll

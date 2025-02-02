@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\bin\Debug\net8.0\Addition of Two Matrices of the Same Size.exe
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\bin\Debug\net8.0\Addition of Two Matrices of the Same Size.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\bin\Debug\net8.0\Addition of Two Matrices of the Same Size.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\bin\Debug\net8.0\Addition of Two Matrices of the Same Size.dll
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\bin\Debug\net8.0\Addition of Two Matrices of the Same Size.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\Addition of Two Matrices of the Same Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\Addition of Two Matrices of the Same Size.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\Addition of Two Matrices of the Same Size.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\Addition of Two Matrices of the Same Size.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\Addition of Two Matrices of the Same Size.dll
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\refint\Addition of Two Matrices of the Same Size.dll
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\Addition of Two Matrices of the Same Size.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\Addition of Two Matrices of the Same Size.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Addition of Two Matrices of the Same Size\obj\Debug\net8.0\ref\Addition of Two Matrices of the Same Size.dll

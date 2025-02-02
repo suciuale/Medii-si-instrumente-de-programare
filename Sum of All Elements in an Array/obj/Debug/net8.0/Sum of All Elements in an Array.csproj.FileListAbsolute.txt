@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\bin\Debug\net8.0\Sum of All Elements in an Array.exe
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\bin\Debug\net8.0\Sum of All Elements in an Array.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\bin\Debug\net8.0\Sum of All Elements in an Array.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\bin\Debug\net8.0\Sum of All Elements in an Array.dll
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\bin\Debug\net8.0\Sum of All Elements in an Array.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\Sum of All Elements in an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\Sum of All Elements in an Array.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\Sum of All Elements in an Array.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\Sum of All Elements in an Array.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\Sum of All Elements in an Array.dll
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\refint\Sum of All Elements in an Array.dll
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\Sum of All Elements in an Array.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\Sum of All Elements in an Array.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Sum of All Elements in an Array\obj\Debug\net8.0\ref\Sum of All Elements in an Array.dll
