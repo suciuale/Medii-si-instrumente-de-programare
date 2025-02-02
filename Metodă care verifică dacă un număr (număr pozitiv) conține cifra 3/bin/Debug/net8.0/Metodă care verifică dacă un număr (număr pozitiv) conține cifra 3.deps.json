@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3/1.0.0": {
+        "runtime": {
+          "Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

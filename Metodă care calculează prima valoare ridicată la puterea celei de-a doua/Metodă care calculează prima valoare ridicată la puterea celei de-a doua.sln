@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodă care calculează prima valoare ridicată la puterea celei de-a doua", "Metodă care calculează prima valoare ridicată la puterea celei de-a doua.csproj", "{D5175F4E-5AB7-4CB3-A328-860FF5A2E6D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5175F4E-5AB7-4CB3-A328-860FF5A2E6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5175F4E-5AB7-4CB3-A328-860FF5A2E6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5175F4E-5AB7-4CB3-A328-860FF5A2E6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5175F4E-5AB7-4CB3-A328-860FF5A2E6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

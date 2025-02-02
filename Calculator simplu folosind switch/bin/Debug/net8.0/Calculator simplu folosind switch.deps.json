@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculator simplu folosind switch/1.0.0": {
+        "runtime": {
+          "Calculator simplu folosind switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator simplu folosind switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

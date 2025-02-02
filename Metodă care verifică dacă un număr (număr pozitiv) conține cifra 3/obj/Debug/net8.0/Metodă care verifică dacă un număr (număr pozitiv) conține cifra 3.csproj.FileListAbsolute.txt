@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\bin\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.exe
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\bin\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\bin\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\bin\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.dll
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\bin\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.dll
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\refint\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.dll
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3\obj\Debug\net8.0\ref\Metodă care verifică dacă un număr (număr pozitiv) conține cifra 3.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Metodă care calculează prima valoare ridicată la puterea celei de-a doua/1.0.0": {
+        "runtime": {
+          "Metodă care calculează prima valoare ridicată la puterea celei de-a doua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodă care calculează prima valoare ridicată la puterea celei de-a doua/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

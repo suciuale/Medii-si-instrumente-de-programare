@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\bin\Debug\net8.0\Calculator simplu folosind switch.exe
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\bin\Debug\net8.0\Calculator simplu folosind switch.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\bin\Debug\net8.0\Calculator simplu folosind switch.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\bin\Debug\net8.0\Calculator simplu folosind switch.dll
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\bin\Debug\net8.0\Calculator simplu folosind switch.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\Calculator simplu folosind switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\Calculator simplu folosind switch.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\Calculator simplu folosind switch.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\Calculator simplu folosind switch.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\Calculator simplu folosind switch.dll
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\refint\Calculator simplu folosind switch.dll
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\Calculator simplu folosind switch.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\Calculator simplu folosind switch.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Calculator simplu folosind switch\obj\Debug\net8.0\ref\Calculator simplu folosind switch.dll
