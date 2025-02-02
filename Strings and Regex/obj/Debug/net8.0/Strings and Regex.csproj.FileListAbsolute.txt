@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\bin\Debug\net8.0\Strings and Regex.exe
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\bin\Debug\net8.0\Strings and Regex.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\bin\Debug\net8.0\Strings and Regex.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\bin\Debug\net8.0\Strings and Regex.dll
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\bin\Debug\net8.0\Strings and Regex.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\Strings and Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\Strings and Regex.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\Strings and Regex.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\Strings and Regex.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\Strings and Regex.dll
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\refint\Strings and Regex.dll
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\Strings and Regex.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\Strings and Regex.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Strings and Regex\obj\Debug\net8.0\ref\Strings and Regex.dll

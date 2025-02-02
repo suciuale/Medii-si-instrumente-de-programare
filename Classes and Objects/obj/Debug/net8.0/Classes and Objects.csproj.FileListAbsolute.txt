@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\Classes and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\Classes and Objects.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\Classes and Objects.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\bin\Debug\net8.0\Classes and Objects.exe
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\bin\Debug\net8.0\Classes and Objects.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\bin\Debug\net8.0\Classes and Objects.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\bin\Debug\net8.0\Classes and Objects.dll
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\bin\Debug\net8.0\Classes and Objects.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\Classes and Objects.dll
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\refint\Classes and Objects.dll
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\Classes and Objects.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\Classes and Objects.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Classes and Objects\obj\Debug\net8.0\ref\Classes and Objects.dll

@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\implementare a clasei Rational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\implementare a clasei Rational.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\implementare a clasei Rational.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\implementare a clasei Rational.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\bin\Debug\net8.0\implementare a clasei Rational.exe
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\bin\Debug\net8.0\implementare a clasei Rational.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\bin\Debug\net8.0\implementare a clasei Rational.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\bin\Debug\net8.0\implementare a clasei Rational.dll
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\bin\Debug\net8.0\implementare a clasei Rational.pdb
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\implementare a clasei Rational.dll
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\refint\implementare a clasei Rational.dll
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\implementare a clasei Rational.pdb
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\implementare a clasei Rational.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\implementare a clasei Rational\obj\Debug\net8.0\ref\implementare a clasei Rational.dll
