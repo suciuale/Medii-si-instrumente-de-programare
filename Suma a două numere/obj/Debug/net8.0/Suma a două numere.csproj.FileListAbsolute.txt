@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\bin\Debug\net8.0\Suma a două numere.exe
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\bin\Debug\net8.0\Suma a două numere.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\bin\Debug\net8.0\Suma a două numere.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\bin\Debug\net8.0\Suma a două numere.dll
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\bin\Debug\net8.0\Suma a două numere.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\Suma a două numere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\Suma a două numere.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\Suma a două numere.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\Suma a două numere.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\Suma a două numere.dll
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\refint\Suma a două numere.dll
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\Suma a două numere.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\Suma a două numere.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Suma a două numere\obj\Debug\net8.0\ref\Suma a două numere.dll
