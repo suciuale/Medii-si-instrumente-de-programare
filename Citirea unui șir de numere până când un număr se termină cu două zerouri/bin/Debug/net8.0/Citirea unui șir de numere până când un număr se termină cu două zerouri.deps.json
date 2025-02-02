@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Citirea unui șir de numere până când un număr se termină cu două zerouri/1.0.0": {
+        "runtime": {
+          "Citirea unui șir de numere până când un număr se termină cu două zerouri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Citirea unui șir de numere până când un număr se termină cu două zerouri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
