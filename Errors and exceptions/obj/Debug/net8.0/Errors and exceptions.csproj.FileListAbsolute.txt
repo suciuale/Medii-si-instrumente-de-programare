@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\bin\Debug\net8.0\Errors and exceptions.exe
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\bin\Debug\net8.0\Errors and exceptions.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\bin\Debug\net8.0\Errors and exceptions.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\bin\Debug\net8.0\Errors and exceptions.dll
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\bin\Debug\net8.0\Errors and exceptions.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\Errors and exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\Errors and exceptions.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\Errors and exceptions.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\Errors and exceptions.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\Errors and exceptions.dll
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\refint\Errors and exceptions.dll
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\Errors and exceptions.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\Errors and exceptions.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Errors and exceptions\obj\Debug\net8.0\ref\Errors and exceptions.dll
