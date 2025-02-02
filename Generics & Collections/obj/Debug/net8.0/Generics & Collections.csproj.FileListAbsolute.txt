@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\bin\Debug\net8.0\Generics & Collections.exe
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\bin\Debug\net8.0\Generics & Collections.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\bin\Debug\net8.0\Generics & Collections.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\bin\Debug\net8.0\Generics & Collections.dll
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\bin\Debug\net8.0\Generics & Collections.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\Generics & Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\Generics & Collections.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\Generics & Collections.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\Generics & Collections.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\Generics & Collections.dll
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\refint\Generics & Collections.dll
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\Generics & Collections.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\Generics & Collections.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Generics & Collections\obj\Debug\net8.0\ref\Generics & Collections.dll
