@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\bin\Debug\net8.0\Rezolvarea ecuației de gradul I.exe
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\bin\Debug\net8.0\Rezolvarea ecuației de gradul I.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\bin\Debug\net8.0\Rezolvarea ecuației de gradul I.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\bin\Debug\net8.0\Rezolvarea ecuației de gradul I.dll
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\bin\Debug\net8.0\Rezolvarea ecuației de gradul I.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\Rezolvarea ecuației de gradul I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\Rezolvarea ecuației de gradul I.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\Rezolvarea ecuației de gradul I.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\Rezolvarea ecuației de gradul I.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\Rezolvarea ecuației de gradul I.dll
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\refint\Rezolvarea ecuației de gradul I.dll
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\Rezolvarea ecuației de gradul I.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\Rezolvarea ecuației de gradul I.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Rezolvarea ecuației de gradul I\obj\Debug\net8.0\ref\Rezolvarea ecuației de gradul I.dll

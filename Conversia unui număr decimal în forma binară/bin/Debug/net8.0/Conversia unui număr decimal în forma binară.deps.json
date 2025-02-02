@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Conversia unui număr decimal în forma binară/1.0.0": {
+        "runtime": {
+          "Conversia unui număr decimal în forma binară.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversia unui număr decimal în forma binară/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\bin\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.exe
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\bin\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\bin\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\bin\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.dll
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\bin\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.dll
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\refint\Calcularea vitezei în ms, kmh și milesh.dll
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\Calcularea vitezei în ms, kmh și milesh.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Calcularea vitezei în ms, kmh și milesh\obj\Debug\net8.0\ref\Calcularea vitezei în ms, kmh și milesh.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rezolvarea ecuației de gradul I/1.0.0": {
+        "runtime": {
+          "Rezolvarea ecuației de gradul I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rezolvarea ecuației de gradul I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

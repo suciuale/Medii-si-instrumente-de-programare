@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Numărarea alfabetelor, cifrelor și caracterelor speciale dintr-un şir/1.0.0": {
+        "runtime": {
+          "Numărarea alfabetelor, cifrelor și caracterelor speciale dintr-un şir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numărarea alfabetelor, cifrelor și caracterelor speciale dintr-un şir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

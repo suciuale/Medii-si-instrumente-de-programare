@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\bin\Debug\net8.0\Conversia unui număr decimal în forma binară.exe
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\bin\Debug\net8.0\Conversia unui număr decimal în forma binară.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\bin\Debug\net8.0\Conversia unui număr decimal în forma binară.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\bin\Debug\net8.0\Conversia unui număr decimal în forma binară.dll
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\bin\Debug\net8.0\Conversia unui număr decimal în forma binară.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\Conversia unui număr decimal în forma binară.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\Conversia unui număr decimal în forma binară.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\Conversia unui număr decimal în forma binară.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\Conversia unui număr decimal în forma binară.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\Conversia unui număr decimal în forma binară.dll
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\refint\Conversia unui număr decimal în forma binară.dll
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\Conversia unui număr decimal în forma binară.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\Conversia unui număr decimal în forma binară.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Conversia unui număr decimal în forma binară\obj\Debug\net8.0\ref\Conversia unui număr decimal în forma binară.dll
