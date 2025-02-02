@@ -1,0 +1,9 @@
+C:\Users\suciu\Desktop\medii si instrumente\Bank\obj\Debug\net472\Bank.csproj.AssemblyReference.cache
+C:\Users\suciu\Desktop\medii si instrumente\Bank\obj\Debug\net472\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Bank\obj\Debug\net472\Bank.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Bank\obj\Debug\net472\Bank.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Bank\obj\Debug\net472\Bank.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Bank\bin\Debug\net472\Bank.dll
+C:\Users\suciu\Desktop\medii si instrumente\Bank\bin\Debug\net472\Bank.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Bank\obj\Debug\net472\Bank.dll
+C:\Users\suciu\Desktop\medii si instrumente\Bank\obj\Debug\net472\Bank.pdb
