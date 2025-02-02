@@ -1,0 +1,14 @@
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\bin\Debug\net8.0\Interschimbarea conținutului a două numere întregi.exe
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\bin\Debug\net8.0\Interschimbarea conținutului a două numere întregi.deps.json
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\bin\Debug\net8.0\Interschimbarea conținutului a două numere întregi.runtimeconfig.json
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\bin\Debug\net8.0\Interschimbarea conținutului a două numere întregi.dll
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\bin\Debug\net8.0\Interschimbarea conținutului a două numere întregi.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\Interschimbarea conținutului a două numere întregi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\Interschimbarea conținutului a două numere întregi.AssemblyInfoInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\Interschimbarea conținutului a două numere întregi.AssemblyInfo.cs
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\Interschimbarea conținutului a două numere întregi.csproj.CoreCompileInputs.cache
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\Interschimbarea conținutului a două numere întregi.dll
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\refint\Interschimbarea conținutului a două numere întregi.dll
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\Interschimbarea conținutului a două numere întregi.pdb
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\Interschimbarea conținutului a două numere întregi.genruntimeconfig.cache
+C:\Users\suciu\Desktop\medii si instrumente\Interschimbarea conținutului a două numere întregi\obj\Debug\net8.0\ref\Interschimbarea conținutului a două numere întregi.dll
